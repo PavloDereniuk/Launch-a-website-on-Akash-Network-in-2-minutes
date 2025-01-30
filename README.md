@@ -27,7 +27,7 @@
 ![](./images/image-2.png)
 <p></p>
 
-6. After making these changes, you need to confirm the initial deposit to launch the deployment, which is 5 AKT.
+6. After making these changes, you need to confirm the initial deposit to launch the deployment, which is 0,5 AKT.
 ![](./images/image-3.png)
 <p></p>
 
